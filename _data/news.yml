@@ -1,3 +1,17 @@
+-
+  type: acceptance
+  year: 2021
+  month: 10
+  name: "Dependent P4"
+  conference: "POPL 2022"
+  conference_url: "https://popl22.sigplan.org/"
+- 
+  type: acceptance
+  year: 2020
+  month: "12"
+  name: "Avenir"
+  conference: "NSDI 2021"
+  conference_url: "https://www.usenix.org/conference/nsdi21"
 - 
   type: acceptance
   year: 2020

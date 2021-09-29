@@ -1,5 +1,36 @@
 -
     type: "conference"
+    title: "Avenir: Managing Data Plane Diversity with Control Plane Synthesis"
+    venue: "USENIX NSDI"
+    month: "April"
+    year: "2021"
+    url: "BASE/papers/avenir.pdf"
+    code: "https://github.com/cornell-netlab/avenir/"
+    author:
+    - first: Eric
+      middle: Hayden
+      last: Campbell
+    - first: William
+      middle: T.
+      last: Hallahan
+    - first: Priya
+      last: Srikumar
+    - first: Carmelo
+      last: Cascone
+    - first: Jed
+      last: Liu
+    - first: Vignesh
+      last: Ramamurthy
+    - first: Hossein
+      last: Hojjat
+    - first: Ruzica
+      last: Piskac
+    - first: Robert
+      last: Soulé
+    - first: Nate
+      last: Foster
+-
+    type: "conference"
     title: "Petr4: Formal Foundations for P4 Data Planes"
     venue: "PACM (POPL)"
     month: "January"
@@ -55,6 +86,7 @@
     month: December
     year: '2020'
     url: BASE/papers/packet-subscriptions.pdf
+    award: 'Best paper award'
     author:
     -   first: Theo
         last: Jepsen

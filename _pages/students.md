@@ -42,7 +42,7 @@ I'm fortunate to work with a fantastic research group.
 </ul>
 
 <h1>Alumni</h1>
-{% assign people = site.data.students | where: "type", "phd-alumni" | sort: "name" %}
+{% assign people = site.data.students | where: "type", "phd-alumni" | sort: "year" %}
 <ul>
 {% for person in people %}
 <li> <div>{% if person.photo %}<a href="{{ person.photo | replace: 'BASE', base_path}}"><img class="alumnus" src="{{ person.photo | replace: 'BASE', base_path }}" alt="{{ person.name }}" /></a>{% endif %}
