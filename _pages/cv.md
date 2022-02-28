@@ -17,8 +17,10 @@ Education
 
 Positions
 ======
-* 2016--present, Associate Professor, Cornell University
-* 2016--present, Principal Research Engineer, Barefoot Networks
+* 2021--present, Professor, Cornell University
+* 2021--present, Platform Architect, Intel
+* 2016--2021, Associate Professor, Cornell University
+* 2016--2021, Research Engineer, Barefoot Networks
 * 2016--2017, Visiting Assistant Professor, Stanford University
 * 2010--2016, Assistant Professor, Cornell University
 * 2009--2010, Postdoctoral Researcher, Princeton University
@@ -33,6 +35,7 @@ Awards &amp; Fellowships
 
 Paper Awards
 =======
+* 2021 Most Influential Paper, ACM SIGPLAN ICFP
 * 2020 Distinguished Paper Award, ACM SIGPLAN POPL 
 * 2019 Best Student Paper Award, ACM SIGCOMM
 * 2018 Best Paper Award, USENIX NSDI

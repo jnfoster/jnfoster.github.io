@@ -1,15 +1,6 @@
 -
     type: postdoc
-    name: Hardik Soni
--
-    type: postdoc
-    name: Tobias Kappé
--
-    type: postdoc
     name: Mina Arashloo Tahmasbi
-- 
-    type: phd
-    name: Praveen Kumar
 - 
     type: phd
     name: Ryan Doenges
@@ -21,31 +12,47 @@
     name: Yunhe Liu
 - 
     type: phd
-    name: Griffin Berlstein
+    name: Mark Moeller
+- 
+    type: phd
+    name: Anshuman Mohan
 - 
     type: masters
     name: Samwise Parkinson
--
-    type: masters
-    name: Hyun Kyo Jung
 -
     type: ugrad
     name: Alaia Solko-Breslin
 -
     type: ugrad
-    name: Pierce Douglis
--
-    type: ugrad
     name: Natalie Isak
 -
     type: ugrad
-    name: Priya Srikumar
--
-    type: ugrad
-    name: Noah Thompson
--
-    type: ugrad
     name: Calvin Shyu
+-
+    type: postdoc-alumni
+    name: Tobias Kappé
+    year: 2021
+    position: Marie Skłodowska-Curie Fellow, ILLC, Amsterdam
+-
+    type: postdoc-alumni
+    name: Hardik Soni
+    year: 2021
+    position: Senior Researcher, NEC Labs
+-
+    type: postdoc-alumni
+    name: Justin Hsu
+    year: 2019
+    position: Assistant Professor, Cornell University
+-
+    type: postdoc-alumni
+    name: Robert Soulé
+    year: 2015
+    position: Assitant Professor, Yale University
+-
+    type: postdoc-alumni
+    name: Arjun Guha
+    year: 2014
+    position: Associate Professor, Northeastern University
 -
     type: phd-alumni
     name: Mark Reitblatt
@@ -73,6 +80,13 @@
     type: phd-alumni
     name: Jonathan DiLorenzo
     thesis: "Domain-Specific Languages for Ad Hoc Data Processing"
-    thesis_url: 
+    thesis_url: https://ecommons.cornell.edu/handle/1813/103357
     year: 2020
-    position:
+    position: Software Engineer, Google
+- 
+    type: phd-alumni
+    name: Praveen Kumar
+    thesis: "Toward Predicatble Networks"
+    thesis_url: https://ecommons.cornell.edu/handle/1813/110837
+    year: 2021
+    position: Software Engineer, Google

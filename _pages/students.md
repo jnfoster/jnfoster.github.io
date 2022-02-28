@@ -42,9 +42,19 @@ I'm fortunate to work with a fantastic research group.
 </ul>
 
 <h1>Alumni</h1>
-{% assign people = site.data.students | where: "type", "phd-alumni" | sort: "year" %}
+{% assign postdoc-alumni = site.data.students | where: "type", "postdoc-alumni" | sort: "year" %}
 <ul>
-{% for person in people %}
+{% for person in postdoc-alumni %}
+<li> <div>{% if person.photo %}<a href="{{ person.photo | replace: 'BASE', base_path}}"><img class="alumnus" src="{{ person.photo | replace: 'BASE', base_path }}" alt="{{ person.name }}" /></a>{% endif %}
+     {{ person.name }} ({{ person.year }})<br />
+     Current position: {{ person.position }}</div>
+     <div style="clear:both;"></div></li>
+{% endfor %}
+</ul>
+
+{% assign phd-alumni = site.data.students | where: "type", "phd-alumni" | sort: "year" %}
+<ul>
+{% for person in phd-alumni %}
 <li> <div>{% if person.photo %}<a href="{{ person.photo | replace: 'BASE', base_path}}"><img class="alumnus" src="{{ person.photo | replace: 'BASE', base_path }}" alt="{{ person.name }}" /></a>{% endif %}
      {{ person.name }} (PhD {{ person.year }})<br />
      Thesis: <i><a href="{{ person.thesis_url }}">{{person.thesis}}</a></i><br />

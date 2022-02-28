@@ -23,6 +23,9 @@ to design better languages and tools for computer networks.
 {% if item.type == "acceptance" %}
 <li>[{{item.month}}/{{item.year}}] <b>{{ item.name }}</b> accepted to <a href="{{ item.conference_url }}">{{ item.conference }}</a>.</li>
 {% endif %}
+{% if item.type == "award" %}
+<li>[{{item.month}}/{{item.year}}] <b>{{ item.description}}</b> from <a href="{{ item.url }}">{{ item.organization }}</a>.</li>
+{% endif %}
 {% endfor %}
 </ul>
 

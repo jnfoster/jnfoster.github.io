@@ -1,4 +1,24 @@
 -
+    type: 'conference'
+    venue: 'POPL'
+    title: 'Dependently-Typed Data Plane Programming'
+    month: January
+    year: '2022'
+    jnf: 'yes'
+    recent: 'yes'
+    url: BASE/papers/pi4.pdf
+    author:
+    -   first: Matthias
+        last: Eichholz
+    -   first: Eric
+        last: Campbell
+    -   first: Matthias
+        last: Krebs
+    -   first: Nate
+        last: Foster
+    -   first: Mira
+        last: Mezini
+-
     type: "conference"
     title: "Avenir: Managing Data Plane Diversity with Control Plane Synthesis"
     venue: "USENIX NSDI"

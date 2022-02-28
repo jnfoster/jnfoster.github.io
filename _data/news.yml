@@ -1,10 +1,38 @@
 -
   type: acceptance
+  year: 2022
+  month: 02
+  name: "Leapfrog: Certified Equivalence for Protocol Parsers"
+  conference: "PLDI 22"
+  conference_url: "https://pldi22.sigplan.org/"
+-
+  type: award
+  year: 2022
+  month: 02
+  description: "Award for Praveen Kumar's thesis <i>Toward Predictable Networks</i>"
+  organization: "ACM SIGCOMM"
+  url: "https://www.cs.cornell.edu/information/news/newsitem12211/praveen-kumar-phd-21-receives-acm-sigcomm-dissertation-award"
+-
+  type: acceptance
+  year: 2021
+  month: 12
+  name: "Concurrent NetKAT"
+  conference: "ESOP 22"
+  conference_url: "https://etaps.org/2022/esop"
+-
+  type: acceptance
   year: 2021
   month: 10
   name: "Dependent P4"
   conference: "POPL 2022"
   conference_url: "https://popl22.sigplan.org/"
+- 
+  type: award
+  year: 2021
+  month: 08
+  description: "Most Influential Paper Award for <i>Frenetic: A Network Programming Language</i>"
+  organization: "ACM SIGPLAN ICFP"
+  url: "https://www.sigplan.org/Awards/ICFP/"
 - 
   type: acceptance
   year: 2020
@@ -20,23 +48,3 @@
   conference: "POPL 2021"
   conference_url: "https://popl21.sigplan.org/"
 - 
-  type: acceptance
-  year: 2020
-  month: "10"
-  name: "Deep Programmability"
-  conference: "SIGCOMM CCR"
-  conference_url: "https://dl.acm.org/newsletter/sigcomm-ccr"
-- 
-  type: acceptance
-  name: "Packet Subscriptions"
-  conference: "CoNEXT 2020"
-  conference_url: "https://conferences2.sigcomm.org/co-next/2020/"
-  year: 2020
-  month: "09"
-- 
-  type: acceptance
-  name: "MicroP4"
-  conference: "SIGCOMM 2020"
-  conference_url: "https://conferences.sigcomm.org/sigcomm/2020/"
-  year: 2020
-  month: "05"
