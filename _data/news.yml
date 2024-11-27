@@ -1,4 +1,74 @@
 - 
+  type: cond_acceptance
+  year: 2024
+  month: 02
+  name: "KATch: A Fast Symbolic Verifier for NetKAT "
+  conference: "PLDI"
+  conference_url: "https://pldi24.sigplan.org/"
+-
+  type: award
+  year: 2023
+  month: 10
+  description: "Distinguished Paper Award"
+  organization: "OOPSLA"
+  url: "https://2023.splashcon.org/details/splash-2023-oopsla/79/Formal-Abstractions-for-Packet-Scheduling"
+-
+  type: award
+  year: 2023
+  month: 09
+  description: "LeArning Network CybER agents (LANCER) grant"
+  organization: "DARPA"
+  url: "https://news.cornell.edu/stories/2023/10/computer-scientists-awarded-3m-bolster-cybersecurity"
+- 
+  type: award
+  year: 2023
+  month: 06
+  description: "Robin Milner Young Researcher Award"
+  organization: "ACM SIGPLAN"
+  url: "https://news.cornell.edu/stories/2023/07/foster-receives-robin-milner-young-researcher-award"
+- 
+  type: acceptance
+  year: 2023
+  month: 06
+  name: "Formal Abstractions for Packet Scheduling"
+  conference: "OOPSLA"
+  conference_url: "https://2023.splashcon.org/track/splash-2023-oopsla"
+- 
+  type: acceptance
+  year: 2023
+  month: 05
+  name: "P4Testgen: An Extensible Test Oracle for P4-16" 
+  conference: "SIGCOMM"
+  conference_url: "https://conferences.sigcomm.org/sigcomm/2023/"
+- 
+  type: acceptance
+  year: 2023
+  month: 05
+  name: "Hydra: Effective Runtime Network Verification"
+  conference: "SIGCOMM"
+  conference_url: "https://conferences.sigcomm.org/sigcomm/2023/"
+- 
+  type: acceptance
+  year: 2023
+  month: 04
+  name: "iMAT: Automata Learning with an Incomplete Teacher "
+  conference: "ECOOP"
+  conference_url: "https://conf.researchr.org/home/ecoop-2023"
+-
+  type: acceptance
+  year: 2022
+  month: 11
+  name: "P4Cub: A Little Language for Big Routers"
+  conference: "CPP"
+  conference_url: "https://popl23.sigplan.org/home/CPP-2023"
+- 
+  type: acceptance
+  year: 2022
+  month: 11
+  name: "A Programming Language for Future Interests"
+  conference: "YJoLT"
+  conference_url: "https://yjolt.org"
+- 
   type: award
   year: 2022
   month: 05
@@ -27,38 +97,3 @@
   organization: "ACM SIGCOMM"
   url: "https://www.cs.cornell.edu/information/news/newsitem12211/praveen-kumar-phd-21-receives-acm-sigcomm-dissertation-award"
 -
-  type: acceptance
-  year: 2021
-  month: 12
-  name: "Concurrent NetKAT"
-  conference: "ESOP 22"
-  conference_url: "https://etaps.org/2022/esop"
--
-  type: acceptance
-  year: 2021
-  month: 10
-  name: "Dependent P4"
-  conference: "POPL 2022"
-  conference_url: "https://popl22.sigplan.org/"
-- 
-  type: award
-  year: 2021
-  month: 08
-  description: "Most Influential Paper Award for <i>Frenetic: A Network Programming Language</i>"
-  organization: "ACM SIGPLAN ICFP"
-  url: "https://www.sigplan.org/Awards/ICFP/"
-- 
-  type: acceptance
-  year: 2020
-  month: "12"
-  name: "Avenir"
-  conference: "NSDI 2021"
-  conference_url: "https://www.usenix.org/conference/nsdi21"
-- 
-  type: acceptance
-  year: 2020
-  month: "10"
-  name: "Petr4"
-  conference: "POPL 2021"
-  conference_url: "https://popl21.sigplan.org/"
-- 

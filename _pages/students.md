@@ -17,6 +17,14 @@ I'm fortunate to work with a fantastic research group.
 {% endfor %}
 </ul>
 
+<h1>Staff</h1>
+{% assign people = site.data.students | where: "type", "software-engineer" | sort: "name" %}
+<ul>
+{% for person in people %}
+<li> {{ person.name }} </li>
+{% endfor %}
+</ul>
+
 <h1> PhD Students</h1>
 {% assign people = site.data.students | where: "type", "phd" | sort: "name" %}
 <ul>

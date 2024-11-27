@@ -1,5 +1,168 @@
 -
     type: 'conference'
+    venue: 'OOPSLA'
+    title: 'Formal Abstractions for Packet Scheduling'
+    month: October
+    year: '2023'
+    jnf: 'yes'
+    recent: 'yes'
+    url: BASE/papers/formal-scheduling.pdf
+    author:
+    - first: Anshuman
+      last: Mohan
+    - first: Yunhe
+      last: Liu
+    - first: Nate
+      last: Foster
+    - first: Tobias
+      last: Kappé
+    - first: Dexter
+      last: Kozen
+    award: 'Distinguished paper award'
+-
+    type: 'conference'
+    venue: 'SIGCOMM'
+    title: 'P4Testgen: An Extensible Test Oracle For P4-16'
+    month: September
+    year: '2023'
+    jnf: 'yes'
+    recent: 'yes'
+    url: BASE/papers/p4testgen.pdf
+    author:
+    - first: Fabian
+      last: Ruffy
+    - first: Jed
+      last: Liu
+    - first: Prathima
+      last: Kotikalapudi
+    - first: Vojtech
+      last: Havel
+    - first: Hanneli
+      last: Tavante
+    - first: Rob
+      last: Sherwood
+    - first: Vladyslav
+      last: Dubina
+    - first: Volodymyr
+      last: Peschanenko 
+    - first: Anirudh
+      last: Sivaraman
+    - first: Nate
+      last: Foster
+-
+    type: 'conference'
+    venue: 'SIGCOMM'
+    title: 'Hydra: Effective Runtime Network Verification'
+    month: September
+    year: '2023'
+    jnf: 'yes'
+    recent: 'yes'
+    url: BASE/papers/hydra.pdf
+    author:
+    - first: Sundararajan
+      last: Renganathan
+    - first: Benny
+      last: Rubin
+    - first: Hyojoon
+      last: Kim
+    - first: Pier Luigi
+      last: Ventre
+    - first: Carmelo
+      last: Cascone
+    - first: Daniele
+      last: Moro
+    - first: Charles
+      last: Chan
+    - first: Nick
+      last: McKeown
+    - first: Nate
+      last: Foster
+-
+    type: 'conference'
+    venue: 'CPP'
+    title: 'P4Cub: A Little Language for Big Routers'
+    month: January
+    year: '2023'
+    jnf: 'yes'
+    recent: 'yes'
+    url: BASE/papers/p4cub.pdf
+    author:
+    -   first: Rudy
+        last: Peterson
+    -   first: Eric
+        last: Campbell
+    -   first: John
+        last: Chen
+    -   first: Natalie
+        last: Isak
+    -   first: Calvin
+        last: Shyu
+    -   first: Ryan
+        last: Doenges
+    -   first: Parisa
+        last: Ataei
+    -   first: Nate
+        last: Foster
+-
+    type: 'workshop'
+    venue: 'EuroP4'
+    title: 'Causal Network Telemetry'
+    month: December
+    year: '2022'
+    jnf: 'yes'
+    recent: 'yes'
+    url: BASE/papers/causal-network-telemetry.pdf
+    author:
+    - first: Yunhe
+      last: Liu
+    - first: Nate
+      last: Foster
+    - first: Fred
+      last: Schneider
+- 
+    type: 'journal'
+    venue: 'YJoLT'
+    month: November
+    year: '2022'
+    title: "A Programming Language for Future Interests"
+    jnf: 'yes'
+    recent: 'yes'
+    url: BASE/papers/conveyances.pdf
+    author:
+    -   first: Shrutarshi
+        last: Basi
+    -   first: Nate
+        last: Foster
+    -   first: James
+        last: Grimmelman
+    -   first: James
+        last: Grimmelman
+    -   first: Shan
+        last: Parikh
+    -   first: Ryan
+        last: Richardson
+-
+    type: 'conference'
+    venue: 'PLDI'
+    title: 'Leapfrog: Certified Equivalence for Protocol Parsers'
+    month: June
+    year: '2022'
+    jnf: 'yes'
+    recent: 'yes'
+    url: BASE/papers/leapfrog.pdf
+    author:
+    -   first: Ryan
+        last: Donges
+    -   first: Tobias
+        last: Kappé
+    -   first: John
+        last: Sarracino
+    -   first: Nate
+        last: Foster
+    -   first: Greg
+        last: Morrisett
+-
+    type: 'conference'
     venue: 'POPL'
     title: 'Dependently-Typed Data Plane Programming'
     month: January
@@ -811,13 +974,13 @@
     month: January
     year: '2015'
     jnf: 'yes'
-    url: BASE/papers/netkat-automata.pdf
+    url: BASE/papers/netkat-coalgebra.pdf
     author:
     -   first: Nate
         last: Foster
     -   first: Dexter
         last: Kozen
-    -   first: Matthew
+    -   first: Mae
         last: Milano
     -   first: Alexandra
         last: Silva

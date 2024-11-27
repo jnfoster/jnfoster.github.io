@@ -1,49 +1,45 @@
 -
     type: postdoc
-    name: Mina Arashloo Tahmasbi
-- 
-    type: postdoc
-    name: Parisa Ataei
-- 
-    type: phd
-    name: Ryan Doenges
+    name: Jules Jacobs
 -
     type: phd
     name: Eric Campbell
 -   
     type: phd
-    name: Yunhe Liu
-- 
-    type: phd
     name: Mark Moeller
-- 
+-
     type: phd
-    name: Anshuman Mohan
-- 
+    name: Kei Imada
+-
     type: masters
-    name: Samwise Parkinson
+    name: Tia Vu
+-
+    type: ugrad
+    name: Zak Kent
+-
+    type: ugrad
+    name: Benny Rubin
 - 
-    type: masters
+    type: software-engineer
     name: Hussain Ahmad
 -
-    type: ugrad
-    name: Alaia Solko-Breslin
+    type: software-engineer
+    name: Rebecca Liu
 -
-    type: ugrad
-    name: Natalie Isak
--
-    type: ugrad
-    name: Calvin Shyu
+    type: postdoc-alumni
+    name: Parisa Ataei
+    year: 2023
+    position: Research Engineer, IOG
 -
     type: postdoc-alumni
     name: Tobias Kappé
     year: 2021
-    position: Marie Skłodowska-Curie Fellow, ILLC, Amsterdam
+    position: Assistant Professor, Open University of the Netherlands
 -
     type: postdoc-alumni
     name: Hardik Soni
     year: 2021
-    position: Senior Researcher, NEC Labs
+    position: Senior Researcher, HP Labs
 -
     type: postdoc-alumni
     name: Justin Hsu
@@ -53,7 +49,7 @@
     type: postdoc-alumni
     name: Robert Soulé
     year: 2015
-    position: Assitant Professor, Yale University
+    position: Associate Professor, Yale University
 -
     type: postdoc-alumni
     name: Arjun Guha
@@ -66,7 +62,7 @@
     thesis: "Formal Reasoning in Software-Defined Networks"
     thesis_url: https://ecommons.cornell.edu/handle/1813/47888
     year: 2017
-    position: Research Scientist, Facebook
+    position: Research Scientist, Meta
 -
     type: phd-alumni
     name: Shrutarshi Basu
@@ -74,7 +70,7 @@
     thesis: "Languages for Path-Based Network Programming"
     thesis_url: "https://ecommons.cornell.edu/handle/1813/59642"
     year: 2018
-    position: Postdoctoral Researcher, Harvard
+    position: Visting Assistant Professor, Middlebury
 -
     type: phd-alumni
     name: Steffen Smolka 
@@ -96,3 +92,11 @@
     thesis_url: https://ecommons.cornell.edu/handle/1813/110837
     year: 2021
     position: Software Engineer, Google
+-
+    type: phd-alumni
+    name: Ryan Doenges
+    thesis: "Programming Language Foundations for
+Packet Processing"
+    thesis_url:
+    year: 2023
+    position: Distinguished Postdoctoral Fellow, Northeastern University
