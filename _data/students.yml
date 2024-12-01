@@ -1,30 +1,44 @@
 -
+    type: visitor
+    name: Hossein Hojjat 
+-
+    type: postdoc
+    name: Guy Amir
+-
     type: postdoc
     name: Jules Jacobs
 -
     type: phd
-    name: Eric Campbell
+    name: Mark Barbone    
+-
+    type: phd
+    name: Ernest Ng    
+-
+    type: phd
+    name: Emmanuel Suarez Acevedo
 -   
     type: phd
     name: Mark Moeller
 -
-    type: phd
-    name: Kei Imada
--
     type: masters
     name: Tia Vu
 -
-    type: ugrad
-    name: Zak Kent
+    type: masters
+    name: Pranav Mishra
 -
     type: ugrad
     name: Benny Rubin
 - 
     type: software-engineer
-    name: Hussain Ahmad
+    name: Ben Ylvisaker
 -
     type: software-engineer
     name: Rebecca Liu
+-
+    type: postdoc-alumni
+    name: Mina Tahmasbi Arashloo
+    year: 2023
+    position: Assistant Professor, University of Waterloo
 -
     type: postdoc-alumni
     name: Parisa Ataei
@@ -39,12 +53,17 @@
     type: postdoc-alumni
     name: Hardik Soni
     year: 2021
-    position: Senior Researcher, HP Labs
+    position: Senior Researcher, HPE Labs
 -
     type: postdoc-alumni
     name: Justin Hsu
     year: 2019
-    position: Assistant Professor, Cornell University
+    position: Associate Professor, Cornell University
+-
+    type: postdoc-alumni
+    name: Hugo Pacheco
+    year: 2017
+    position: Assistant Professor, University of Porto
 -
     type: postdoc-alumni
     name: Robert Soulé
@@ -60,7 +79,7 @@
     name: Mark Reitblatt
     photo: BASE/images/dr-reitblatt.png
     thesis: "Formal Reasoning in Software-Defined Networks"
-    thesis_url: https://ecommons.cornell.edu/handle/1813/47888
+    thesis_url: https://doi.org/10.7298/X45M63PH
     year: 2017
     position: Research Scientist, Meta
 -
@@ -68,35 +87,41 @@
     name: Shrutarshi Basu
     photo: BASE/images/dr-basu.png
     thesis: "Languages for Path-Based Network Programming"
-    thesis_url: "https://ecommons.cornell.edu/handle/1813/59642"
+    thesis_url: https://doi.org/10.7298/X4057D4D
     year: 2018
     position: Visting Assistant Professor, Middlebury
 -
     type: phd-alumni
     name: Steffen Smolka 
     thesis: "A (Co)algebraic Approach to Programming and Verifying Computer Networks"
-    thesis_url: https://ecommons.cornell.edu/xmlui/handle/1813/70019
+    thesis_url: https://doi.org/10.7298/1dpd-c128
     year: 2019
-    position: Software Engineer, Google
+    position: Staff Software Engineer, Google
 -
     type: phd-alumni
     name: Jonathan DiLorenzo
     thesis: "Domain-Specific Languages for Ad Hoc Data Processing"
-    thesis_url: https://ecommons.cornell.edu/handle/1813/103357
+    thesis_url: https://doi.org/10.7298/pm5v-5815
     year: 2020
     position: Software Engineer, Google
 - 
     type: phd-alumni
     name: Praveen Kumar
     thesis: "Toward Predicatble Networks"
-    thesis_url: https://ecommons.cornell.edu/handle/1813/110837
+    thesis_url: https://doi.org/10.7298/02t2-va72
     year: 2021
     position: Software Engineer, Google
 -
     type: phd-alumni
     name: Ryan Doenges
-    thesis: "Programming Language Foundations for
-Packet Processing"
-    thesis_url:
+    thesis: "Programming Language Foundations for Packet Processing"
+    thesis_url: https://doi.org/10.7298/a0dy-4f33
     year: 2023
     position: Distinguished Postdoctoral Fellow, Northeastern University
+-
+    type: phd-alumni
+    name: Eric Campbell
+    thesis: "Verified Configuration of Programmable Networks"
+    thesis_url: 
+    year: 2024
+    position: Postdoctoral Researcher, UT Austin

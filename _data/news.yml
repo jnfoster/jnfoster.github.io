@@ -1,7 +1,31 @@
 - 
-  type: cond_acceptance
+  type: announce
   year: 2024
-  month: 02
+  month: 11
+  description: 'Appointed <a href="https://cis.cornell.edu/foster-named-associate-dean-research">Associate Dean for Research</a> for the Ann S. Bowers College of Computing and Information Science'
+- 
+  type: acceptance
+  year: 2024
+  month: 09
+  name: "Network Design Considerations for Trading Systems"
+  conference: "HotNets"
+  conference_url: "https://conferences.sigcomm.org/hotnets/2024/"
+- 
+  type: announce
+  year: 2024
+  month: 08
+  description: 'Appointed <a href="https://cis.cornell.edu/foster-named-darpa-isat-study-group">Vice Chair</a> of DARPA ISAT'
+- 
+  type: acceptance
+  year: 2024
+  month: 08
+  name: "Computing Precise Control Interface Specifications"
+  conference: "OOPSLA"
+  conference_url: "https://oopsla24.sigplan.org/"
+- 
+  type: acceptance
+  year: 2024
+  month: 04
   name: "KATch: A Fast Symbolic Verifier for NetKAT "
   conference: "PLDI"
   conference_url: "https://pldi24.sigplan.org/"
@@ -33,67 +57,4 @@
   name: "Formal Abstractions for Packet Scheduling"
   conference: "OOPSLA"
   conference_url: "https://2023.splashcon.org/track/splash-2023-oopsla"
-- 
-  type: acceptance
-  year: 2023
-  month: 05
-  name: "P4Testgen: An Extensible Test Oracle for P4-16" 
-  conference: "SIGCOMM"
-  conference_url: "https://conferences.sigcomm.org/sigcomm/2023/"
-- 
-  type: acceptance
-  year: 2023
-  month: 05
-  name: "Hydra: Effective Runtime Network Verification"
-  conference: "SIGCOMM"
-  conference_url: "https://conferences.sigcomm.org/sigcomm/2023/"
-- 
-  type: acceptance
-  year: 2023
-  month: 04
-  name: "iMAT: Automata Learning with an Incomplete Teacher "
-  conference: "ECOOP"
-  conference_url: "https://conf.researchr.org/home/ecoop-2023"
--
-  type: acceptance
-  year: 2022
-  month: 11
-  name: "P4Cub: A Little Language for Big Routers"
-  conference: "CPP"
-  conference_url: "https://popl23.sigplan.org/home/CPP-2023"
-- 
-  type: acceptance
-  year: 2022
-  month: 11
-  name: "A Programming Language for Future Interests"
-  conference: "YJoLT"
-  conference_url: "https://yjolt.org"
-- 
-  type: award
-  year: 2022
-  month: 05
-  description: "Research Excellence Award"
-  organization: "Cornell Bowers CIS"
-  url: "https://www.cis.cornell.edu"
-- 
-  type: acceptance
-  year: 2022
-  month: 04
-  name: "Forwarding and Routing with Packet Subscriptions"
-  conference: "ACM/IEEE ToN"
-  conference_url: "https://dl.acm.org/journal/ton"
--
-  type: acceptance
-  year: 2022
-  month: 02
-  name: "Leapfrog: Certified Equivalence for Protocol Parsers"
-  conference: "PLDI 22"
-  conference_url: "https://pldi22.sigplan.org/"
--
-  type: award
-  year: 2022
-  month: 02
-  description: "Award for Praveen Kumar's thesis <i>Toward Predictable Networks</i>"
-  organization: "ACM SIGCOMM"
-  url: "https://www.cs.cornell.edu/information/news/newsitem12211/praveen-kumar-phd-21-receives-acm-sigcomm-dissertation-award"
 -

@@ -1,4 +1,84 @@
 -
+    type: 'workshop'
+    venue: 'HotNets'
+    title: 'Network Design Considerations for Trading Systems'
+    month: November
+    year: '2024'
+    jnf: 'yes'
+    recent: 'yes'
+    url: BASE/papers/ndcts.pdf
+    author:
+    - first: Andy
+      last: Myers
+    - first: Brian
+      last: Nigito
+    - first: Nate
+      last: Foster
+-
+    type: 'journal'
+    venue: 'PACMPL (OOPSLA 2)'
+    title: 'Computing Precise Control Interface Specifications'
+    month: October
+    year: '2024'
+    jnf: 'yes'
+    recent: 'yes'
+    url: BASE/papers/capisce.pdf
+    author:
+    - first: Eric
+      last: Campbell
+    - first: Hossein
+      last: Hojjat
+    - first: Nate
+      last: Foster
+-
+    type: 'journal'
+    venue: 'PACMPL (PLDI)'
+    title: 'KATch: A Fast Symbolic Verifier for NetKAT'
+    month: June
+    year: '2024'
+    jnf: 'yes'
+    recent: 'yes'
+    url: BASE/papers/katch.pdf
+    author:
+    - first: Mark
+      last: Moeller
+    - first: Jules
+      last: Jacobs
+    - first: Oliver
+      last: Bélanger
+    - first: David 
+      last: Darais
+    - first: Cole
+      last: Schlesinger
+    - first: Steffen
+      last: Smolka
+    - first: Nate
+      last: Foster
+    - first: Alexandra
+      last: Silva
+-
+    type: 'conference'
+    venue: 'ECOOP'
+    title: 'Automata Learning with an Incomplete Teacher'
+    month: July
+    year: '2023'
+    jnf: 'yes'
+    recent: 'yes'
+    url: BASE/papers/lstar-with-blanks.pdf
+    author:
+    - first: Mark
+      last: Moeller
+    - first: Thomas
+      last: Wiener
+    - first: Alaia
+      last: Solko-Brelin
+    - first: Caleb
+      last: Koch
+    - first: Nate
+      last: Foster
+    - first: Alexandra
+      last: Silva
+-
     type: 'conference'
     venue: 'OOPSLA'
     title: 'Formal Abstractions for Packet Scheduling'

@@ -9,6 +9,14 @@ redirect_from:
 
 I'm fortunate to work with a fantastic research group. 
 
+<h1>Visitors</h1>
+{% assign people = site.data.students | where: "type", "visitor" | sort: "name" %}
+<ul>
+{% for person in people %}
+<li> {{ person.name }} </li>
+{% endfor %}
+</ul>
+
 <h1>Postdocs</h1>
 {% assign people = site.data.students | where: "type", "postdoc" | sort: "name" %}
 <ul>
@@ -54,7 +62,7 @@ I'm fortunate to work with a fantastic research group.
 <ul>
 {% for person in postdoc-alumni %}
 <li> <div>{% if person.photo %}<a href="{{ person.photo | replace: 'BASE', base_path}}"><img class="alumnus" src="{{ person.photo | replace: 'BASE', base_path }}" alt="{{ person.name }}" /></a>{% endif %}
-     {{ person.name }} ({{ person.year }})<br />
+     {{ person.name }} (Postdoc {{ person.year }})<br />
      Current position: {{ person.position }}</div>
      <div style="clear:both;"></div></li>
 {% endfor %}

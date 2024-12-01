@@ -20,6 +20,9 @@ to design better languages and tools for computer networks.
 
 <ul>
 {% for item in site.data.news %}
+{% if item.type == "announce" %}
+<li>[{{item.month}}/{{item.year}}] {{ item.description }}.</li>
+{% endif %}
 {% if item.type == "cond_acceptance" %}
 <li>[{{item.month}}/{{item.year}}] <b>{{ item.name }}</b> conditionally accepted to <a href="{{ item.conference_url }}">{{ item.conference }}</a>.</li>
 {% endif %}
@@ -43,6 +46,8 @@ Reinforcement Learning for Network Security<br />
 <div class="box-6 feature">
 <img src="images/petr4-logo.png" alt="Petr4 logo" /><br />
 Formal Foundations for Programmable Data Planes<br />
+<a class="file_link paper" href="{{ base_path }}/papers/p4testgen.pdf">SIGCOMM '24a</a>
+<a class="file_link paper" href="{{ base_path }}/papers/hydra.pdf">SIGCOMM '24b</a>
 <a class="file_link paper" href="{{ base_path }}/papers/p4cub.pdf">CPP '23</a>
 <a class="file_link paper" href="{{ base_path }}/papers/leapfrog.pdf">PLDI '22</a><br />
 <a class="file_link paper" href="{{ base_path }}/papers/petr4.pdf">POPL '21</a>
@@ -51,25 +56,11 @@ Formal Foundations for Programmable Data Planes<br />
 </div>
 <div class="container">
 <div class="box-6 feature">
-<img src="images/pronto-logo.png" alt="Pronto logo" /><br />
-Verifiable Closed-Loop Control for Next-Generation Networks<br />
-<a class="file_link paper" href="{{ base_path }}/papers/formal-scheduling.pdf">OOPSLA '23</a>
-<a class="file_link paper" href="{{ base_path }}/papers/hydra.pdf">SIGCOMM '23</a><br />
-<a class="file_link paper" href="{{ base_path }}/papers/pronto-ccr.pdf">CCR '20</a>
-<a class="file_link paper" href="{{ base_path }}/papers/avenir.pdf">NSDI '21</a>
-</div>
-<div class="box-6 feature">
 <img src="images/netkat-logo.png" alt="NetKAT logo" /><br />
 (Co)-Algebraic Foundations for Programmable Networks<br />
+<a class="file_link paper" href="{{ base_path }}/papers/katch.pdf">PLDI '24</a>
 <a class="file_link paper" href="{{ base_path }}/papers/mcnetkat.pdf">PLDI '19</a>
 <a class="file_link paper" href="{{ base_path }}/papers/gkat.pdf">POPL '20</a>
-</div>
-</div>
-<div class="container">
-<div class="box-6 feature">
-<img src="images/neptune-logo.png" alt="Neptune logo" /><br />
-Flexibility, Performance, Consistency for Heterogeneous Packet-Processing Architectures<br />
-<a class="file_link webpage" href="https://www.cs.cornell.edu/information/news/newsitem11102/multiple-google-faculty-research-awards-cornell-cs-including-nate">CS article</a>
 </div>
 <div class="box-6 feature">
 <img src="images/littleton-logo.png" alt="Littleton logo" /><br />
