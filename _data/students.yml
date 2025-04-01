@@ -27,7 +27,7 @@
     name: Tia Vu
 -
     type: masters
-    name: Annabel Blaniak
+    name: Annabel Baniak
 -
     type: masters
     name: Pranav Mishra
@@ -46,6 +46,9 @@
 - 
     type: software-engineer
     name: Ben Ylvisaker
+-
+    type: software-engineer
+    name: Jedidiah McClurg
 -
     type: software-engineer
     name: Rebecca Liu

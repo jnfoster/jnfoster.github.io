@@ -7,7 +7,16 @@ redirect_from:
 ---
 {% include base_path %}
 
-I'm fortunate to work with a fantastic research group. 
+<div class="grid-container">
+     <a href="{{ base_path}}/images/lake-placid-1.png"><img class="group" src="{{ base_path }}/images/lake-placid-1.png" alt="group retreat" /></a>
+     <a href="{{ base_path}}/images/lake-placid-2.png"><img class="group" src="{{ base_path }}/images/lake-placid-2.png" alt="group retreat" /></a>
+     <a href="{{ base_path}}/images/lake-placid-3.png"><img class="group" src="{{ base_path }}/images/lake-placid-3.png" alt="group retreat" /></a>
+     <a href="{{ base_path}}/images/lake-placid-4.png"><img class="group" src="{{ base_path }}/images/lake-placid-4.png" alt="group retreat" /></a>
+</div>
+<p style="margin-top:10px;">
+I'm lucky to work with an amazing group of students, postdocs, and staff. Here we are with friends, collaborators, and alumni at our group off-site in Lake Placid, NY in March 2025.
+</p>
+<div style="clear:both;" />
 
 <h1>Visitors</h1>
 {% assign people = site.data.students | where: "type", "visitor" | sort: "name" %}

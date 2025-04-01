@@ -1,5 +1,68 @@
 -
     type: 'workshop'
+    venue: 'HotOS'
+    title: 'Lightweight Hypervisor Verification: Putting the Hardware Burger on a Diet'
+    month: May
+    year: '2025'
+    jnf: 'yes'
+    recent: 'yes'
+    author:
+    - first: Charly
+      last: Castes
+    - first: François
+      last: Costa
+    - first: Nate
+      last: Foster
+    - first: Thomas
+      last: Bourgeat
+    - first: Edouard
+      last: Bugnion
+-
+    type: 'journal'
+    venue: 'PACMPL (PLDI)'
+    title: 'StacKAT: Infinite State Network Verification'
+    month: June
+    year: '2025'
+    jnf: 'yes'
+    recent: 'yes'
+    url: BASE/papers/stackat.pdf
+    author:
+    - first: Jules
+      last: Jacobs
+    - first: Nate
+      last: Foster
+    - first: Tobias
+      last: Kappé 
+    - first: Dexter
+      last: Kozen
+    - first: Lily
+      last: Saada
+    - first: Alexandra
+      last: Silva
+    - first: Jana
+      last: Wagemaker
+-
+    type: 'journal'
+    venue: 'PACMPL (PLDI)'
+    title: 'Active Learning of Symbolic NetKAT Automata'
+    month: June
+    year: '2025'
+    jnf: 'yes'
+    recent: 'yes'
+    url: BASE/papers/nkl.pdf
+    author:
+    - first: Mark
+      last: Moeller
+    - first: Tiago
+      last: Ferreira
+    - first: Thomas
+      last: Lu 
+    - first: Nate
+      last: Foster
+    - first: Alexandra
+      last: Silva
+-
+    type: 'workshop'
     venue: 'HotNets'
     title: 'Network Design Considerations for Trading Systems'
     month: November

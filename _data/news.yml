@@ -1,7 +1,14 @@
 -
-  type: cond_acceptance
+  type: acceptance
   year: 2025
-  month: '03'
+  month: '04'
+  name: 'Putting the Hardware Burger on a Diet'
+  conference: 'HotOS XX'
+  conference_url: "https://sigops.org/s/conferences/hotos/2025/"
+-
+  type: acceptance
+  year: 2025
+  month: '04'
   name: 'StacKAT </i>and<i>NetKAT Automata Learning'
   conference: 'PLDI'
   conference_url: "https://pldi25.sigplan.org/"

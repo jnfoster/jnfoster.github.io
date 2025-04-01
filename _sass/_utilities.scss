@@ -570,6 +570,22 @@ a.file_link {
 .alumnus {
     float: left;
     margin-right: 10px;
-    height: 80px;    
+    height: 80px;
     border-radius: 10%;
+}
+
+.group {
+    float: left;
+    margin-right: 10px;
+    border-radius: 10%;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(2, 160px);
+    gap: 10px;
+}
+
+.grid-container img {
+    height: 120px;
 }
