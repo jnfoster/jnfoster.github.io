@@ -9,25 +9,40 @@
     name: Jules Jacobs
 -
     type: phd
+    name: Emmanuel Suarez Acevedo
+-
+    type: phd
     name: Mark Barbone    
 -
     type: phd
     name: Ernest Ng    
--
-    type: phd
-    name: Emmanuel Suarez Acevedo
 -   
     type: phd
     name: Mark Moeller
+-   
+    type: phd
+    name: Aditya Senthilnathan
 -
     type: masters
     name: Tia Vu
 -
     type: masters
+    name: Annabel Blaniak
+-
+    type: masters
     name: Pranav Mishra
+-
+    type: masters
+    name: Gerardo Garcia Teruel Noriega
 -
     type: ugrad
     name: Benny Rubin
+-
+    type: ugrad
+    name: Tudor Braicu   
+-
+    type: ugrad
+    name: Ajay Tadinada   
 - 
     type: software-engineer
     name: Ben Ylvisaker
@@ -35,48 +50,60 @@
     type: software-engineer
     name: Rebecca Liu
 -
+    type: software-engineer
+    name: Shailja Gaur
+-
     type: postdoc-alumni
     name: Mina Tahmasbi Arashloo
     year: 2023
     position: Assistant Professor, University of Waterloo
+    url: 'https://mina.arashloo.net/'
 -
     type: postdoc-alumni
     name: Parisa Ataei
     year: 2023
     position: Research Engineer, IOG
+    url: 'https://www.linkedin.com/in/pataei/'
 -
     type: postdoc-alumni
     name: Tobias Kappé
     year: 2021
-    position: Assistant Professor, Open University of the Netherlands
+    position: Assistant Professor, University of Leiden
+    url: 'https://tobias.kap.pe/' 
 -
     type: postdoc-alumni
     name: Hardik Soni
     year: 2021
     position: Senior Researcher, HPE Labs
+    url: 'https://hksoni.github.io/'
 -
     type: postdoc-alumni
     name: Justin Hsu
     year: 2019
     position: Associate Professor, Cornell University
+    url: 'https://www.justinhsu.net/'
 -
     type: postdoc-alumni
     name: Hugo Pacheco
     year: 2017
     position: Assistant Professor, University of Porto
+    url: 'https://www.dcc.fc.up.pt/~hpacheco/'
 -
     type: postdoc-alumni
     name: Robert Soulé
     year: 2015
     position: Associate Professor, Yale University
+    url: 'https://www.cs.yale.edu/homes/soule/'
 -
     type: postdoc-alumni
     name: Arjun Guha
     year: 2014
     position: Associate Professor, Northeastern University
+    url: 'https://www.khoury.northeastern.edu/home/arjunguha/main/home/'
 -
     type: phd-alumni
     name: Mark Reitblatt
+    url: 'https://reitblatt.com/'
     photo: BASE/images/dr-reitblatt.png
     thesis: "Formal Reasoning in Software-Defined Networks"
     thesis_url: https://doi.org/10.7298/X45M63PH
@@ -85,6 +112,7 @@
 -
     type: phd-alumni
     name: Shrutarshi Basu
+    url: 'https://v3.basus.me/'
     photo: BASE/images/dr-basu.png
     thesis: "Languages for Path-Based Network Programming"
     thesis_url: https://doi.org/10.7298/X4057D4D
@@ -92,7 +120,9 @@
     position: Visting Assistant Professor, Middlebury
 -
     type: phd-alumni
-    name: Steffen Smolka 
+    name: Steffen Smolka
+    photo: BASE/images/dr-smolka.png
+    url: 'https://smolka.st/'
     thesis: "A (Co)algebraic Approach to Programming and Verifying Computer Networks"
     thesis_url: https://doi.org/10.7298/1dpd-c128
     year: 2019
@@ -100,6 +130,8 @@
 -
     type: phd-alumni
     name: Jonathan DiLorenzo
+    photo: BASE/images/dr-dilorenzo.png
+    url: 'http://www.dilorenzo.science/'
     thesis: "Domain-Specific Languages for Ad Hoc Data Processing"
     thesis_url: https://doi.org/10.7298/pm5v-5815
     year: 2020
@@ -107,13 +139,17 @@
 - 
     type: phd-alumni
     name: Praveen Kumar
-    thesis: "Toward Predicatble Networks"
+    photo: BASE/images/dr-kumar.png
+    url: 'https://praveenk.io/'
+    thesis: "Toward Predictable Networks"
     thesis_url: https://doi.org/10.7298/02t2-va72
     year: 2021
     position: Software Engineer, Google
 -
     type: phd-alumni
     name: Ryan Doenges
+    url: 'https://ryandoeng.es/'
+    photo: BASE/images/dr-doenges.png
     thesis: "Programming Language Foundations for Packet Processing"
     thesis_url: https://doi.org/10.7298/a0dy-4f33
     year: 2023
@@ -121,6 +157,8 @@
 -
     type: phd-alumni
     name: Eric Campbell
+    url: 'https://ericthewry.github.io/'
+    photo: BASE/images/dr-campbell.png
     thesis: "Verified Configuration of Programmable Networks"
     thesis_url: 
     year: 2024

@@ -72,6 +72,14 @@
     }
   }
 
+  .subtle {
+      color: #333333;
+      text-decoration: none;
+      &:hover {
+	  text-decoration: underline;
+      }      
+  }
+  
   a {
     text-decoration: underline;
 

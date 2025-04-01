@@ -7,6 +7,7 @@
     jnf: 'yes'
     recent: 'yes'
     url: BASE/papers/ndcts.pdf
+    slides: BASE/papers/ndcts-slides.pdf
     author:
     - first: Andy
       last: Myers
@@ -23,6 +24,7 @@
     jnf: 'yes'
     recent: 'yes'
     url: BASE/papers/capisce.pdf
+    slides: BASE/papers/capisce-slides.pdf
     author:
     - first: Eric
       last: Campbell
@@ -39,6 +41,7 @@
     jnf: 'yes'
     recent: 'yes'
     url: BASE/papers/katch.pdf
+    slides: BASE/papers/katch-slides.pdf
     author:
     - first: Mark
       last: Moeller
@@ -65,6 +68,7 @@
     jnf: 'yes'
     recent: 'yes'
     url: BASE/papers/lstar-with-blanks.pdf
+    slides: BASE/papers/lstar-with-blanks-slides.pdf
     author:
     - first: Mark
       last: Moeller
@@ -87,6 +91,7 @@
     jnf: 'yes'
     recent: 'yes'
     url: BASE/papers/formal-scheduling.pdf
+    slides: BASE/papers/formal-scheduling-slides.pdf
     author:
     - first: Anshuman
       last: Mohan
@@ -268,6 +273,7 @@
     month: "April"
     year: "2021"
     url: "BASE/papers/avenir.pdf"
+    slides: "BASE/papers/avenir-slides.pdf"
     code: "https://github.com/cornell-netlab/avenir/"
     author:
     - first: Eric
@@ -1449,7 +1455,8 @@
     month: September
     year: '2011'
     jnf: 'yes'
-    url: BASE/papers/frenetic-icfp11.pdf
+    url: BASE/papers/frenetic-icfp.pdf
+    slides: BASE/papers/frenetic-icfp-slides.pdf
     author:
     -   first: Nate
         last: Foster
@@ -1466,6 +1473,7 @@
         last: Story
     -   first: David
         last: Walker
+    award: 'Most influential paper from ICFP 2011'
 -
     type: 'conference'
     title: 'Forest: A Language and Toolkit for Programming With Filestores'
@@ -1493,7 +1501,8 @@
     year: '2010'
     month: November
     jnf: 'yes'
-    url: BASE/papers/frenetic-presto10.pdf
+    url: BASE/papers/frenetic-presto.pdf
+    slides: BASE/papers/frenetic-presto-slides.pdf
     author:
     -   first: Nate
         last: Foster
@@ -1923,7 +1932,6 @@
     month: May
     volume: '29'
     number: '3'
-    award: 'Most influential paper from POPL 2005'
     full: http://doi.acm.org/10.1145/1232420.1232424
     url: http://doi.acm.org/10.1145/1040305.1040325
     slides: BASE/papers/focal-slides.pdf
@@ -1950,6 +1958,7 @@
     month: Jan
     url: https://dl.acm.org/doi/10.1145/1040305.1040325
     slides: BASE/papers/focal-slides.pdf
+    award: 'Most influential paper from POPL 2005'
     author:
     -   first: J.
         middle: Nathan

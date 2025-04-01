@@ -1,60 +1,115 @@
+-
+  type: cond_acceptance
+  year: 2025
+  month: '03'
+  name: 'StacKAT </i>and<i>NetKAT Automata Learning'
+  conference: 'PLDI'
+  conference_url: "https://pldi25.sigplan.org/"
+-
+  type: announce
+  year: 2025
+  month: '01'
+  description: 'Named an <a class="subtle" href="https://www.acm.org/media-center/2025/january/fellows-2024">ACM Fellow</a>'
+-
+  type: announce
+  year: 2025
+  month: '05'
+  description: 'Lecturing at the <a class="subtle" href="https://ssft-sri.github.io/">SRI Summer School on Formal Techniques</a>'
+-
+  type: announce
+  year: 2025
+  month: '01'
+  description: 'Presented at <a class="subtle" href="https://researchweek.comp.nus.edu.sg/">NUS Computer Science Research Week</a> in Singapore'
+-
+  type: announce
+  year: 2024
+  month: '12'
+  description: 'Received a gift from the <a class="subtle" href="https://www.vmware.com/company/research/faculty-programs">VMware University Research Fund</a>'
+-
+  type: acceptance
+  year: 2024
+  month: '12'
+  name: "It Takes a Village: Bridging the Gaps between Current and Formal Specifications for Protocols"
+  conference: "CACM"
+  conference_url: "https://cacm.acm.org/"
 - 
   type: announce
   year: 2024
-  month: 11
-  description: 'Appointed <a href="https://cis.cornell.edu/foster-named-associate-dean-research">Associate Dean for Research</a> for the Ann S. Bowers College of Computing and Information Science'
+  month: '11'
+  description: 'Appointed <a class="subtle" href="https://cis.cornell.edu/foster-named-associate-dean-research">Associate Dean for Research</a> for Bowers CIS'
 - 
   type: acceptance
   year: 2024
-  month: 09
-  name: "Network Design Considerations for Trading Systems"
+  month: '09'
+  name: '<a class="subtle" href="https://dl.acm.org/doi/10.1145/3696348.3696890">Network Design Considerations for Trading Systems</a>'
   conference: "HotNets"
   conference_url: "https://conferences.sigcomm.org/hotnets/2024/"
 - 
   type: announce
   year: 2024
-  month: 08
-  description: 'Appointed <a href="https://cis.cornell.edu/foster-named-darpa-isat-study-group">Vice Chair</a> of DARPA ISAT'
-- 
+  month: '08'
+  description: 'Appointed <a class="subtle" href="https://cis.cornell.edu/foster-named-darpa-isat-study-group">Vice Chair</a> of DARPA ISAT'
+-
   type: acceptance
   year: 2024
-  month: 08
-  name: "Computing Precise Control Interface Specifications"
+  month: '08'
+  name: '<a class="subtle" href="https://dl.acm.org/doi/10.1145/3689743">Computing Precise Control Interface Specifications</a>'
   conference: "OOPSLA"
   conference_url: "https://oopsla24.sigplan.org/"
 - 
+  type: announce
+  year: 2024
+  month: '06'
+  description: 'Served as PC Co-chair of <a class="subtle" href="https://conferences.sigcomm.org/hotnets/2024/">HotNets</a> with <a class="subtle" href="https://www.microsoft.com/en-us/research/people/bearzani/">Behnaz Arzani</a> (MSR)'
+- 
+  type: announce
+  year: 2024
+  month: '05'
+  description: '<a class="subtle" href="https://lancer-project.org/">LANCER</a> placed <a class="subtle" href="https://codalab.lisn.upsaclay.fr/competitions/17672">2nd</a> in <a class="subtle" href="https://cage-challenge.github.io/cage-challenge-4/">TTCP CAGE-4 Challenge</a>'
+- 
   type: acceptance
   year: 2024
-  month: 04
-  name: "KATch: A Fast Symbolic Verifier for NetKAT "
+  month: '04'
+  name: '<a class="subtle" href="https://dl.acm.org/doi/10.1145/3656454">KATch: A Fast Symbolic Verifier for NetKAT</a>'
   conference: "PLDI"
   conference_url: "https://pldi24.sigplan.org/"
 -
+  type: announce
+  year: 2023
+  month: '10'
+  description: 'Served as Chair of <a class="subtle" href="https://awards.acm.org/doctoral-dissertation/">2023 ACM Doctoral Dissertation Award</a> Commitee'
+-
   type: award
   year: 2023
-  month: 10
-  description: "Distinguished Paper Award"
+  month: '10'
+  description: 'Distinguished Paper Award for <i><a class="subtle" href="https://dl.acm.org/doi/10.1145/3622845">Formal Abstractions for Packet Scheduling</a></i>'
   organization: "OOPSLA"
   url: "https://2023.splashcon.org/details/splash-2023-oopsla/79/Formal-Abstractions-for-Packet-Scheduling"
 -
   type: award
   year: 2023
-  month: 09
-  description: "LeArning Network CybER agents (LANCER) grant"
+  month: '09'
+  description: '<a class="subtle" href="https://news.cornell.edu/stories/2023/10/computer-scientists-awarded-3m-bolster-cybersecurity">LeArning Network CybER agents (LANCER)</a> grant'
   organization: "DARPA"
-  url: "https://news.cornell.edu/stories/2023/10/computer-scientists-awarded-3m-bolster-cybersecurity"
+  url: "https://www.darpa.mil/"
+-
+  type: announce
+  year: 2023
+  month: '08'
+  description: 'On sabbatical at <a class="subtle" href="https://epfl.ch">EPFL</a>, hosted by the <a class="subtle" href="https://www.epfl.ch/labs/dcsl/">Data Center Systems Lab (DSCL)</a>'
 - 
   type: award
   year: 2023
-  month: 06
-  description: "Robin Milner Young Researcher Award"
+  month: '06'
+  description: '<a class="subtle" href="https://news.cornell.edu/stories/2023/07/foster-receives-robin-milner-young-researcher-award">Robin Milner Young Researcher Award</a>'
   organization: "ACM SIGPLAN"
-  url: "https://news.cornell.edu/stories/2023/07/foster-receives-robin-milner-young-researcher-award"
+  url: "https://www.sigplan.org/Awards/Milner/"
 - 
   type: acceptance
   year: 2023
-  month: 06
-  name: "Formal Abstractions for Packet Scheduling"
+  month: '06'
+  name: '<a class="subtle" href="https://dl.acm.org/doi/10.1145/3622845">Formal Abstractions for Packet Scheduling</a>'
   conference: "OOPSLA"
   conference_url: "https://2023.splashcon.org/track/splash-2023-oopsla"
+  old: 'yes'
 -

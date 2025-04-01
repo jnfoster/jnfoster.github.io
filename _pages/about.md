@@ -16,21 +16,24 @@ include language design, semantics, type systems, and mechanized
 proof. Recently I've been spending most of my time thinking about how
 to design better languages and tools for computer networks.
 
-# News
+# Recent News [<a href="{{ base_path }}/news">all</a>]
 
 <ul>
 {% for item in site.data.news %}
+{% if item.old == "yes" %}
+{% else %}
 {% if item.type == "announce" %}
 <li>[{{item.month}}/{{item.year}}] {{ item.description }}.</li>
 {% endif %}
 {% if item.type == "cond_acceptance" %}
-<li>[{{item.month}}/{{item.year}}] <b>{{ item.name }}</b> conditionally accepted to <a href="{{ item.conference_url }}">{{ item.conference }}</a>.</li>
+<li>[{{item.month}}/{{item.year}}] <i>{{ item.name }}</i> conditionally accepted to <a class="subtle" href="{{ item.conference_url }}">{{ item.conference }}</a>.</li>
 {% endif %}
 {% if item.type == "acceptance" %}
-<li>[{{item.month}}/{{item.year}}] <b>{{ item.name }}</b> accepted to <a href="{{ item.conference_url }}">{{ item.conference }}</a>.</li>
+<li>[{{item.month}}/{{item.year}}] <i>{{ item.name }}</i> accepted to <a class="subtle" href="{{ item.conference_url }}">{{ item.conference }}</a>.</li>
 {% endif %}
 {% if item.type == "award" %}
-<li>[{{item.month}}/{{item.year}}] <b>{{ item.description}}</b> from <a href="{{ item.url }}">{{ item.organization }}</a>.</li>
+<li>[{{item.month}}/{{item.year}}] {{ item.description}} from <a class="subtle" href="{{ item.url }}">{{ item.organization }}</a>.</li>
+{% endif %}
 {% endif %}
 {% endfor %}
 </ul>

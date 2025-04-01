@@ -1,3 +1,5 @@
+{% include base_path %}
+
 {% assign all_authors = "" %}
 {% for author in paper.author %}
   {% if forloop.first != true %}
@@ -14,11 +16,11 @@
 {% endfor %}
 
 <li class="paper">
-  <span class="title">
-    <b>{{ paper.title }}</b>
-  </span>
   <span class="authors">
     {{ all_authors }}.
+  </span>
+  <span class="title">
+    <b><a class="subtle" href="{{ paper.url | replace: 'BASE', base_path }}">{{ paper.title }}</a></b>.
   </span>
   <span class="venue">
   In {{ paper.venue }} {{ paper.year }}.

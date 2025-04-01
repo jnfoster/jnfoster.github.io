@@ -57,24 +57,25 @@ I'm fortunate to work with a fantastic research group.
 {% endfor %}
 </ul>
 
-<h1>Alumni</h1>
+<h1>Postdoc Alumni</h1>
 {% assign postdoc-alumni = site.data.students | where: "type", "postdoc-alumni" | sort: "year" %}
 <ul>
 {% for person in postdoc-alumni %}
 <li> <div>{% if person.photo %}<a href="{{ person.photo | replace: 'BASE', base_path}}"><img class="alumnus" src="{{ person.photo | replace: 'BASE', base_path }}" alt="{{ person.name }}" /></a>{% endif %}
-     {{ person.name }} (Postdoc {{ person.year }})<br />
-     Current position: {{ person.position }}</div>
+     <a class="subtle" href="{{ person.url }}">{{ person.name }}</a> (Postdoc {{ person.year }})<br />
+     Most recent position: {{ person.position }}</div>
      <div style="clear:both;"></div></li>
 {% endfor %}
 </ul>
 
+<h1>PhD Alumni</h1>
 {% assign phd-alumni = site.data.students | where: "type", "phd-alumni" | sort: "year" %}
 <ul>
 {% for person in phd-alumni %}
 <li> <div>{% if person.photo %}<a href="{{ person.photo | replace: 'BASE', base_path}}"><img class="alumnus" src="{{ person.photo | replace: 'BASE', base_path }}" alt="{{ person.name }}" /></a>{% endif %}
-     {{ person.name }} (PhD {{ person.year }})<br />
-     Thesis: <i><a href="{{ person.thesis_url }}">{{person.thesis}}</a></i><br />
-     Current position: {{ person.position }}</div>
+          <a class="subtle" href="{{ person.url }}">{{ person.name }}</a> (PhD {{ person.year }})<br />
+     Dissertation: <i><a href="{{ person.thesis_url }}">{{person.thesis}}</a></i><br />
+     Most recent position: {{ person.position }}</div>
      <div style="clear:both;"></div></li>
 {% endfor %}
 </ul>

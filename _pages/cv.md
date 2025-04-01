@@ -9,15 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
+My CV is available as a [PDF]({{base_path}}/cv.pdf), or as summarized below.
+
 Education
 ======
 * BA in Computer Science, Williams College, 2001
-* MPhil in History and Philosophy of Science and Medicine, University of Cambridge, 2008
+* MPhil in History and Philosophy of Science and Medicine, University of Cambridge, 2008 <br /><span style="color:#999999; font-size:80%;">(Note: all work for the MPhil was completed in 2003, but I did not formally receive my degree until a ceremony in 2008.)</span>
 * PhD in Computer and Information Science, University of Pennsylvania, 2009
 
 Academic Positions
 ======
-* 2022--2023, Associate Dean for Research (Interim), Cornell University
+* 2022--2023 (Interim), 2024--present, Associate Dean for Research, Cornell University
 * 2021--present, Professor, Cornell University
 * 2016--2021, Associate Professor, Cornell University
 * 2010--2016, Assistant Professor, Cornell University
@@ -25,7 +27,7 @@ Academic Positions
 
 Visiting Positions
 ======
-* 2023--present, Visiting Professor, École Polytechnique Fédérale de Lausanne
+* 2023--2024, Visiting Professor, École Polytechnique Fédérale de Lausanne
 * 2016--2017, Visiting Assistant Professor, Stanford University
 
 Industry Positions

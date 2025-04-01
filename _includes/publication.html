@@ -33,6 +33,9 @@
   {% endif %}
   <br />
   <a class="file_link paper" href="{{ paper.url | replace:'BASE', base_path }}">PDF</a>
+  {% if paper.slides %}
+  <a class="file_link slides" href="{{ paper.slides | replace:'BASE', base_path }}">Slides</a>
+  {% endif %}
   {% if paper.code %}
   <a class="file_link code" href="{{ paper.code }}">Code</a>
   {% endif %}
