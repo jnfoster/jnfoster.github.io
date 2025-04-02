@@ -582,10 +582,10 @@ a.file_link {
 
 .grid-container {
     display: grid;
-    grid-template-columns: repeat(2, 160px);
+    grid-template-columns: repeat(2, 240px);
     gap: 10px;
 }
 
 .grid-container img {
-    height: 120px;
+    height: 160px;
 }
