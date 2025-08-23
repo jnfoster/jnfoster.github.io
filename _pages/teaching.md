@@ -6,7 +6,7 @@ redirect_from:
   - /teaching.html
 ---
 
-This semester I'm teaching [CS 6115](https://www.cs.cornell.edu/courses/cs6115/2024fa).
+This semester I'm teaching [CS 4110](https://www.cs.cornell.edu/courses/cs4110/2025fa).
 
 In the past I've taught the following courses:
 <ul>
