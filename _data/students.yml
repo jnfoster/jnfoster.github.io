@@ -5,18 +5,9 @@
     type: postdoc
     name: Guy Amir
 -
-    type: postdoc
-    name: Jules Jacobs
--
-    type: phd
-    name: Emmanuel Suarez Acevedo
--
     type: phd
     name: Mark Barbone    
 -
-    type: phd
-    name: Ernest Ng    
--   
     type: phd
     name: Mark Moeller
 -   
@@ -24,26 +15,11 @@
     name: Aditya Senthilnathan
 -
     type: masters
-    name: Tia Vu
--
-    type: masters
     name: Annabel Baniak
--
-    type: masters
-    name: Pranav Mishra
--
-    type: masters
-    name: Gerardo Garcia Teruel Noriega
--
-    type: ugrad
-    name: Benny Rubin
 -
     type: ugrad
     name: Tudor Braicu   
 -
-    type: ugrad
-    name: Ajay Tadinada   
-- 
     type: software-engineer
     name: Ben Ylvisaker
 -
@@ -55,6 +31,12 @@
 -
     type: software-engineer
     name: Shailja Gaur
+-
+    type: postdoc-alumni
+    name: Jules Jacobs
+    year: 2025
+    position: Software Engineer, Jane Street
+    url: 'https://julesjacobs.com/'
 -
     type: postdoc-alumni
     name: Mina Tahmasbi Arashloo

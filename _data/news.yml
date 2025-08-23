@@ -1,6 +1,18 @@
 -
   type: acceptance
   year: 2025
+  month: '07'
+  name: 'The Design and Implementation of a Virtual Firmware Monitor'
+  conference: 'SOSP'
+  conference_url: 'https://sigops.org/s/conferences/sosp/2025/'
+-
+  type: announce
+  year: 2025
+  month: '06'
+  description: 'P4 and Tofino selected as a winner of the <a class="subtle" href="https://www.sigcomm.org/awards/sigcomm-networking-systems-award">2025 ACM SIGCOMM Networking Systems Award</a>'
+-
+  type: acceptance
+  year: 2025
   month: '04'
   name: 'Putting the Hardware Burger on a Diet'
   conference: 'HotOS XX'

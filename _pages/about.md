@@ -19,9 +19,7 @@ to design better languages and tools for computer networks.
 # Recent News [<a href="{{ base_path }}/news">all</a>]
 
 <ul>
-{% for item in site.data.news %}
-{% if item.old == "yes" %}
-{% else %}
+{% for item in site.data.news limit:7 %}
 {% if item.type == "announce" %}
 <li>[{{item.month}}/{{item.year}}] {{ item.description }}.</li>
 {% endif %}
@@ -33,7 +31,6 @@ to design better languages and tools for computer networks.
 {% endif %}
 {% if item.type == "award" %}
 <li>[{{item.month}}/{{item.year}}] {{ item.description}} from <a class="subtle" href="{{ item.url }}">{{ item.organization }}</a>.</li>
-{% endif %}
 {% endif %}
 {% endfor %}
 </ul>
@@ -61,6 +58,7 @@ Formal Foundations for Programmable Data Planes<br />
 <div class="box-6 feature">
 <img src="images/netkat-logo.png" alt="NetKAT logo" /><br />
 (Co)-Algebraic Foundations for Programmable Networks<br />
+<a class="file_link webpage" href="https://netkat.org">Project webpage</a>
 <a class="file_link paper" href="{{ base_path }}/papers/katch.pdf">PLDI '24</a>
 <a class="file_link paper" href="{{ base_path }}/papers/mcnetkat.pdf">PLDI '19</a>
 <a class="file_link paper" href="{{ base_path }}/papers/gkat.pdf">POPL '20</a>
@@ -74,5 +72,3 @@ A Programming Language for Future Interests<br />
 </div>
 </div>
 <br />
-
-[npi]: https://network-programming.org

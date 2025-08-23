@@ -38,6 +38,7 @@ Industry Positions
 
 Awards &amp; Fellowships
 ======
+* 2025 ACM Fellow
 * 2023 ACM SIGPLAN Robin Milner Award
 * 2018 ACM SIGCOMM Rising Star Award
 * 2013 National Science Foundation CAREER Award

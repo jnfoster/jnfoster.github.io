@@ -6,6 +6,7 @@
     year: '2025'
     jnf: 'yes'
     recent: 'yes'
+    url: BASE/papers/hardware-burger.pdf
     author:
     - first: Charly
       last: Castes
@@ -49,7 +50,7 @@
     year: '2025'
     jnf: 'yes'
     recent: 'yes'
-    url: BASE/papers/nkl.pdf
+    url: BASE/papers/nklstar.pdf
     author:
     - first: Mark
       last: Moeller
