@@ -1,4 +1,9 @@
 -
+  type: announce
+  year: 2025
+  month: '09'
+  description: 'My research group will <a class="subtle" href="https://ethrat.ch/en/ernennungen-sept-25/">move</a> to <a class="subtle" href="https://ic.epfl.ch">EPFL</a> in January 2026'
+-
   type: acceptance
   year: 2025
   month: '07'
