@@ -19,15 +19,16 @@ Education
 
 Academic Positions
 ======
-* 2022--2023 (Interim), 2024--present, Associate Dean for Research, Cornell University
-* 2021--present, Professor, Cornell University
+* 2026--present, Professor, EPFL
+* 2022--2023 (Interim), 2024--2025, Associate Dean for Research, Cornell University
+* 2021--2025, Professor, Cornell University
 * 2016--2021, Associate Professor, Cornell University
 * 2010--2016, Assistant Professor, Cornell University
 * 2009--2010, Postdoctoral Researcher, Princeton University
 
 Visiting Positions
 ======
-* 2023--2024, Visiting Professor, École Polytechnique Fédérale de Lausanne
+* 2023--2024, Visiting Professor, EPFL
 * 2016--2017, Visiting Assistant Professor, Stanford University
 
 Industry Positions
@@ -48,6 +49,7 @@ Awards &amp; Fellowships
 
 Paper Awards
 =======
+* 2025 Networking Systems Award, ACM SIGCOMM
 * 2023 Distinguished Paper Award, ACM SIGPLAN OOPSLA
 * 2021 Most Influential Paper, ACM SIGPLAN ICFP
 * 2020 Best Paper Award, ACM SIGCOMM CoNEXT
