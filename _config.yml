@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Nate Foster"
   avatar           : "profile.png"
-  bio              : "Professor of Computer Science<br />Cornell University<br /><br />Visiting Researcher<br />Jane Street"
-  location         : "Ithaca, NY"
-  location_url     : https://goo.gl/maps/j2wwvv6ar9in3LmP8
+  bio              : "Professor of Computer and Communication Sciences<br />EPFL<br /><br />Visiting Researcher<br />Jane Street"
+  location         : "Lausanne, Switzerland"
+  location_url     : https://maps.app.goo.gl/8jK8N8HXKsqgRv9q9
   employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=AH5j40kAAAAJ"
